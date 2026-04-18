@@ -128,8 +128,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupac4530-creator&bg_color=0D1117&color=00f0ff&line=ff006e&point=fbbf24&area=true&hide_border=true" width="98%"/>
-
+<img src="https://github-contribution-stats.vercel.app/api/?username=rupac4530-creator&theme=tokyo" width="98%"/>
 </div>
 
 <br/>
