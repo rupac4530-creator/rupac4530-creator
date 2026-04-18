@@ -138,7 +138,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/rupac4530-creator/rupac4530-creator/output/github-contribution-grid-snake-dark.svg)
 
 <sub>⚙️ Your own snake will appear here once the workflow runs — see setup note below.</sub>
 
